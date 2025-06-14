@@ -1,3 +1,4 @@
 # webhook-coinflip
 made in python
-download from [here](https://github.com/pickyofficial2/webhook-coinflip/blob/main/gambling%20game.py)
+
+copy the code in [here](https://raw.githubusercontent.com/pickyofficial2/webhook-coinflip/refs/heads/main/gambling%20game.py) and use it.
